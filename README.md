@@ -12,5 +12,5 @@ Used Opencore Legacy Patcher to make GT1030 work
 * Disabled Secureboot
 * Removed iGPU from DeviceProperties
 
-Dual Boot with Win10 on m2 nvme 256 GB
+Dual Boot with Win10 on CX2 LiteOn nvme 256 GB
 
