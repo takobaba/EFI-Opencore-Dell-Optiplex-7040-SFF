@@ -12,5 +12,7 @@ Used Opencore Legacy Patcher to make GT1030 work
 * Disabled Secureboot
 * Removed iGPU from DeviceProperties
 
+Used https://github.com/chris1111/Wireless-USB-Adapter for USB dongle
+
 Dual Boot with Win10 on CX2 LiteOn nvme 256 GB
 
